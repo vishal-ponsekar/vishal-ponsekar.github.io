@@ -69,6 +69,11 @@ export const profileConfig: ProfileConfig = {
 		// 	url: "https://store.steampowered.com",
 		// },
 		{
+			name: "LinkedIn",
+			icon: "fa6-brands:linkedin",
+			url: "www.linkedin.com/in/vishal-ponsekar"
+		},
+		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/vishal-ponsekar",
